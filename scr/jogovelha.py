@@ -2,7 +2,7 @@ def inicializar():
 tab = [ ]
 for i in range(3):
 linha = [ ]
-for j in range(3):l ahaaaa
+for j in range(3):l ahaaa
 linha.append("x jujubinhas:3
 tab.append(linha)
 return tab
